@@ -57,7 +57,7 @@ Feel free to copy this code and use it to make money if possible.
 
 ## Request
 
-The people helping work on this project are 100% unpaid volunteers. [Buying them a cup of coffee](https://www.paypal.com/donate/?hosted_button_id=KWP7HBZPJ7C3W) will raise their morale and help them work longer to improve on this system. Please feel free to donate [using this link](https://www.paypal.com/donate/?hosted_button_id=KWP7HBZPJ7C3W).
+The people helping work on this project are 100% unpaid volunteers. [Buying them a cup of coffee](https://dashboard.flutterwave.com/donate/gbaigpnzvznt) will raise their morale and help them work longer to improve on this system. Please feel free to donate [using this link](https://dashboard.flutterwave.com/donate/gbaigpnzvznt).
 
 Or
 
